@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi there, I'm Bianca Milea 👋
 
-<!--
-**biancamilea04/biancamilea04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Student & Full Stack Developer
 
-Here are some ideas to get you started:
+I'm passionate about building robust and creative solutions from front-end to back-end. Currently, I'm a student honing my skills in full stack development, working with modern technologies and frameworks.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+#### 👩‍💻 Top Skills
+- Java & Spring
+- C# & .NET
+- Rust & C++
+- JavaScript & React
+
+#### 🌟 Favorite Projects
+- **Offline Messenger:** A reliable communication tool that works even without an internet connection.
+- **Task Manager:** A task planer for a student organization.
+
+---
+
+#### 📫 Connect with Me
+- [LinkedIn](https://ro.linkedin.com/in/bianca-elena-milea)
+
+---
+
