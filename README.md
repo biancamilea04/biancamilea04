@@ -1,4 +1,4 @@
-# Hi there, I'm Bianca Milea 👋
+# Hi there
 
 ### 🚀 Student & Full Stack Developer
 
